@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+
+# Node (no forma parte del proyecto)
+node_modules/
+package.json
+package-lock.json
+
+# Modelos generados en tiempo de ejecución
+outputs/
